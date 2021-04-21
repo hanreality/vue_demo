@@ -21,8 +21,6 @@ npm install -D webpack webpack-cli
 
 根目录下添加 **src** 文件，并且在 **src** 文件夹内添加 **main.js** 文件；根目录下添加**index.html** 和 **webpack.config.js**
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/e4314297-bc16-447f-8533-623bc8d2c43c/1618973301017.jpg](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/e4314297-bc16-447f-8533-623bc8d2c43c/1618973301017.jpg)
-
 在**webpack.config.js添加内容：**
 
 ```jsx
